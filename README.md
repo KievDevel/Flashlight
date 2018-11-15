@@ -1,4 +1,2 @@
 # Flashlight
-Flashlight for your website like VK made for Hour of Earth.
-
-Demo is here: http://kievdev.com/flashlight/
+Flashlight for your website. Add this styles and see your website in flashlight circle.
